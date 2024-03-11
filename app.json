@@ -14,15 +14,15 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "27be842cb506de9b5520146dfd0ba299"
+            "value": "a5e4cd466d0aa6f7534eb926b6d0cf06"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "24271143"
+            "value": "22843979"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "7068842592:AAEhSmyeAKJ98yQbFbX5dKK8eam5hobdHag"
+            "value": "6799507835:AAHpHCw8e7w15W_7IdTRzv_mU3Jk3e2ZWdY"
         },
         "AUTH": {
             "description": "owner user id. who will get access to do batch command",
@@ -30,11 +30,10 @@
         },
         "SESSION": {
             "description": "pyrogram string session. Get from- https://replit.com/@SpEcHiDe/GenerateStringSession",
-            "value": "BQBgR6-GktPE2sFbEU0RS-h3Q-wzW9xGcywX6fYgbVe5ZIXUyO7-6KDCAyPHBwbPzOa9kghR3OMWI42fmFPapCpD7iimVKpAUW9oGFU1gQTHRL3WZ8jlqNcNMfT60l5b56YVAaG3DCxdZ411NAhSkKNGtPEJMFGAF8zt1ptF1Xloy5BNGuSY-k-bqbS2HQZDV5BpAPmuF3Sju2tSvYprtoPnMiJVv8MlyGgd9uu5xEj-9dNwPG2hVnHBHGX8mKbPMFnPB9bg3EUFflGYOArPlHPFOJWQqYfFODFoKHMDHptvg-dhR4sEZ6P0z6sTV2qMEn9Eq_py9WB98IkF-lgFNFpRAAAAAU5aTkIA"
-        },
+            "value": "BQFckksAcliPqGekd8_vpbez1SKHjVog4RTvpHZ_e19KJH3jU_1Udjo4RcSDHQwIRVjPgX-be8dMxQY6gtb8XBvuOzb7eMKkvyZPl-hxCblxbeczJZmXoEoG71HiimZIMZTrU0jUiEq5gjcjEkt35_NSeBBeaDe2F1NXKrhznpe7N-h9FSGFm6KhhRff8rbhu3SrAVyuy8Qcztsgodp5VjMgoo1Vs6PUJbG_J9aTQRw9zcvRtKqVbUgiDKOZQrBKsycFs2s3scOqqxwdUomTUAst0INUg1AW4IsJbz8X-2RcRQ9LyZD1Zpnh9QbouERZPzZ2B8RIG2CmySRcWU6lD9aOo6puRwAAAAFOWk5CAA"      },
         "FORCESUB": {
             "description": "Public Channel username without using '@' to forcesub.",
-            "value": ""
+            "value": "OOK"
         }
     },
     "buildpacks": [
